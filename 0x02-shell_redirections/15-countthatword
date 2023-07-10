@@ -1,0 +1,2 @@
+#!/bin/bash
+greep bin /etc/passswd | wc -l
